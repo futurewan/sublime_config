@@ -1,0 +1,29 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"Angular2 HTML Syntax",
+		"CSS3",
+		"Emmet",
+		"EncodingHelper",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"Jade",
+		"JavaScript Completions",
+		"jQuery",
+		"jQueryDocs",
+		"LESS",
+		"Material Theme",
+		"Minifier",
+		"Package Control",
+		"SublimeLinter",
+		"Tag",
+		"TypeScript",
+		"Vue Syntax Highlight"
+	]
+}

@@ -1,0 +1,9 @@
+// sublime text2之js压缩-Js Minifier
+// 一款基于Google Closure compiler压缩Js文件插件。
+
+// 快捷键:
+
+// Ctrl+Alt+M            当前文件内压缩Js代码（不推荐）
+
+// Ctrl+Alt+Shift+M   压缩Js并生成压缩文件 *.min.js
+// "optimization_level": "WHITESPACE_ONLY",

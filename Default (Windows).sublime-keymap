@@ -1,0 +1,65 @@
+[
+	// Convert to Expanded Format 选择器在一行 扩大显示
+	{
+		"keys": ["ctrl+alt+["],
+		"command": "css_format",
+		"args": {
+			"action": "expand"
+		}
+	},
+
+	// Convert to expanded format (break selectors) 选择器在多行 缩小显示
+	{
+		"keys": ["ctrl+alt+b"],
+		"command": "css_format",
+		"args": {
+			"action": "expand-bs"
+		}
+	},
+
+	// Convert to Expanded Format (Break Selectors) 选择器在多行 扩大显示
+	{
+		"keys": ["ctrl+alt+v"],
+		"command": "css_format",
+		"args": {
+			"action": "expand-bs"
+		}
+	},
+
+	// Convert to Compact Format 选择器在一行 缩小显示
+	{
+		"keys": ["ctrl+alt+]"],
+		"command": "css_format",
+		"args": {
+			"action": "compact"
+		}
+	},
+
+	// Convert to Compact Format (No Spaces) 选择器在一行 缩小显示 无空格
+	{
+		"keys": ["ctrl+alt+n"],
+		"command": "css_format",
+		"args": {
+			"action": "compact-ns"
+		}
+	},
+
+
+	// Convert to Compact Format (Break Selectors and No Spaces) 选择器在多行 缩小显示 无空格
+	{
+		"keys": ["ctrl+alt+m"],
+		"command": "css_format",
+		"args": {
+			"action": "compact-bs-ns"
+		}
+	},
+
+	// Convert to Compressed Format 压缩格式
+	{
+		"keys": ["ctrl+alt+\\"],
+		"command": "css_format",
+		"args": {
+			"action": "compress"
+		}
+	}
+]
